@@ -1,0 +1,117 @@
+
+
+
+ 
+	
+	body{
+	background-color:gray;
+	font-size:30px;
+	color:white;
+}
+ 
+
+
+td{
+	border:2px solid #333;
+	height:20px;
+	width:30px;
+	text-align:center;
+	vertical-align:middle;
+	font:bold;
+	font-size:25px;
+	cursor:pointer;
+	
+}
+
+textarea{
+	width:300px;
+	height:200px;
+	
+	
+	background-color:blue;
+	color:white;
+}
+div.container #first
+{
+display:grid;
+grid-template-columns:100px 100px 300px 300px;
+margin-left:500px;
+margin-top:200px;
+grid-column-gap:10px;
+
+}
+
+.tab{
+	border-collapse:collapse;
+	position:absolute;
+	margin-top:25px;
+	margin-left:700px;
+	width:200px;
+	height:105px;
+}
+
+.tab1{
+	border-collapse:collapse;
+	position:absolute;
+	margin-top:90px;
+	margin-left:500px;
+	width:200px;
+	height:105px;
+}
+
+.tab2{
+	border-collapse:collapse;
+	position:absolute;
+	margin-top:170px;
+	margin-left:300px;
+	width:200px;
+	height:105px;
+}
+
+.tab3{
+	border-collapse:collapse;
+	position:absolute;
+	margin-top:240px;
+	margin-left:100px;
+	width:200px;
+	height:105px;
+}
+
+
+a{
+	color:white;
+	font-size:40px;
+	margin-left:20px;
+	cursor:pointer;
+	
+	
+}
+
+h3,#message{
+	margin-left:20px;
+	color:darkblue;
+}
+	
+
+
+.score{
+	border-collapse:collapse;
+	margin-left:950px;
+	margin-top:20px;
+	
+}
+p{
+	margin-left:1000px;
+	color:darkblue;
+}
+
+.buton{
+	background-color:darkblue;
+	color:white;
+	height:40px;
+	width:100px;
+	border-radius: 25px;
+	margin-top:170px;
+	cursor:pointer;
+	
+}
